@@ -16,6 +16,7 @@ class Calculator{
         <td><button class="btn btn-light">   4</button></td>
         <td><button class="btn btn-light">   5</button></td>
         <td><button class="btn btn-light">   +</button></td>
+        <td><button class="btn btn-light">   *</button></td>
       </tr>
       <tr>
         <td><button class="btn btn-light">   6</button></td>
@@ -24,6 +25,7 @@ class Calculator{
         <td><button class="btn btn-light">   9</button></td>
         <td><button class="btn btn-light">   0</button></td>
         <td><button class="btn btn-light">   -</button></td>
+        <td><button class="btn btn-light">   /</button></td>
       </tr>
       <tr>
         <td colspan="6"><button class="btn btn-dark btn-block">=</button></td>
